@@ -238,7 +238,7 @@ footer{
     margin: 0px 50px;
     display: flex;
     flex-direction: column;
-    width: 30%;
+    width: 50%;
     
 }
 @media screen and (max-width:375px) {
@@ -251,6 +251,7 @@ footer{
 }
 .contact p{
     font-size: 10px;
+    width: 70%;
 }
 
 .contact .phone{
